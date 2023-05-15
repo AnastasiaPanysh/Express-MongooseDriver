@@ -12,7 +12,7 @@ Before running the project, ensure that Node.js and MongoDB are installed on you
 ## Installation
 1. Clone the repository: git clone https://github.com/AnastasiaPanysh/server-mongo.git
 2. Install dependencies: npm install 
-3. To start the server: nodemon index   
+3. To start the server: nodemon index     
 
 ## Contributing
 If you'd like to contribute to the project, feel free to submit a pull request. Contributions are always welcome!
